@@ -12,12 +12,12 @@ El objetivo principal es desarrollar un sistema de predicción.
 
 ## Dataset
 Información del dataset con link de descarga:
-[Link al dataset](https://gitlab.com/ia5890828/IA_proyect/-/blob/c5bff04b5603a1caf9e32cfbf9b1e585090a87b5/Datos_Hidrometeorol_gicos_Crudos_-_Red_de_Estaciones_IDEAM___Temperatura_20240312__2_.rar)
+[Link al dataset](https://drive.google.com/drive/folders/1GksygoaCJrKfyvzbmaM-rpBPHZuYbYyK)
 
 ## Modelos
 - Random Forest Regressor
 
 ## Enlaces
-- [Código](https://gitlab.com/ia5890828/IA_proyect/-/blob/c5bff04b5603a1caf9e32cfbf9b1e585090a87b5/codigo.ipynb)
+- [Código]([https://gitlab.com/ia5890828/IA_proyect/-/blob/c5bff04b5603a1caf9e32cfbf9b1e585090a87b5/codigo.ipynb](https://github.com/Johanspb/proyecto_IA/blob/ffaf81e3bf5125249486de44f3663efe480ef9b1/codigo.ipynb))
 - [Video](https://youtu.be/yhCh_ztIBEY)
-- [Repositorio](https://gitlab.com/ia5890828/IA_proyect/-/tree/c5bff04b5603a1caf9e32cfbf9b1e585090a87b5)
+- [Repositorio](https://github.com/Johanspb/proyecto_IA?tab=readme-ov-file)
